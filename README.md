@@ -4,7 +4,7 @@ Kalkulator merupakan sebuah program sederhana yang menggunakan bahasa pemrograma
 # Cara Menjalankan Program
 1. Download atau Clone file dari repository
 
-   Clone : 
+   Clone : https://github.com/abastiands/Kalkulator.git
 
 2. Selanjutnya buka aplikasi Microsoft Visual Studio 2019
 
