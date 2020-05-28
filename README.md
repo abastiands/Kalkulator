@@ -1,3 +1,14 @@
+# Cara Menjalankan Program
+Download atau Clone file dari repository
+
+Selanjut buka aplikasi Microsoft Visual Studio 2019
+
+Selanjutnya file KalkulatorAbas.sln
+
+Selanjutnya run program
+
+atau anda dapat melihat contoh program pada file Hasil Preview.jpg
+
 # Kalkulator
 Kalkulator merupakan sebuah program sederhana yang menggunakan bahasa pemrograman C# dengan aplikasi Microsoft Visual Studio 2019.
 
