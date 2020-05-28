@@ -3,7 +3,7 @@ Download atau Clone file dari repository
 
 Selanjut buka aplikasi Microsoft Visual Studio 2019
 
-Selanjutnya file KalkulatorAbas.sln
+Selanjutnya open file KalkulatorAbas.sln
 
 Selanjutnya run program
 
