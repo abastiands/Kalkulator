@@ -1,0 +1,9 @@
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\CalculatorAbas\CalculatorAbas\bin\Debug\CalculatorAbas.exe.config
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\CalculatorAbas\CalculatorAbas\bin\Debug\CalculatorAbas.exe
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\CalculatorAbas\CalculatorAbas\bin\Debug\CalculatorAbas.pdb
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\CalculatorAbas\CalculatorAbas\obj\Debug\CalculatorAbas.csprojAssemblyReference.cache
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\CalculatorAbas\CalculatorAbas\obj\Debug\CalculatorAbas.Form1.resources
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\CalculatorAbas\CalculatorAbas\obj\Debug\CalculatorAbas.Properties.Resources.resources
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\CalculatorAbas\CalculatorAbas\obj\Debug\CalculatorAbas.csproj.GenerateResource.cache
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\CalculatorAbas\CalculatorAbas\obj\Debug\CalculatorAbas.exe
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\CalculatorAbas\CalculatorAbas\obj\Debug\CalculatorAbas.pdb
