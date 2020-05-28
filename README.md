@@ -1,11 +1,11 @@
 # Cara Menjalankan Program
 Download atau Clone file dari repository
 
-Selanjut buka aplikasi Microsoft Visual Studio 2019
+Selanjutnya buka aplikasi Microsoft Visual Studio 2019
 
 Selanjutnya open file KalkulatorAbas.sln
 
-Selanjutnya run program
+Selanjutnya run program KalkulatorAbas
 
 atau anda dapat melihat contoh program pada file Hasil Preview.jpg
 
