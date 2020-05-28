@@ -1,6 +1,9 @@
 # Kalkulator
 Kalkulator merupakan sebuah program sederhana yang menggunakan bahasa pemrograman C# dengan aplikasi Microsoft Visual Studio 2019.
 
+# Aplikasi Yang Harus Di Install
+Microsoft Visual Studio 2019
+
 # Cara Menjalankan Program
 1. Download atau Clone file dari repository
 
