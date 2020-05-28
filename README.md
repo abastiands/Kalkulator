@@ -1,2 +1,14 @@
 # Kalkulator
 Kalkulator merupakan sebuah program sederhana yang menggunakan bahasa pemrograman C# dengan aplikasi Microsoft Visual Studio 2019.
+
+# Bahasa Pemrograman
+Menggunakan bahasa pemrograman c#
+
+# Aplikasi Pendukung
+Menggunakan aplikasi Microsoft Visual Studio 2019
+
+# Credits
+Terima kasih kepada Allah SWT
+Terima kasih kepada kedua orang tua
+Terima kasih kepada Guru
+Terima kasih kepada semua
